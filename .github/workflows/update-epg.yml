@@ -1,0 +1,47 @@
+name: Update CineMo EPG
+
+on:
+  schedule:
+    # Runs every day at 00:05 UTC (08:05 PH time)
+    - cron: '5 0 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate updated EPG
+        run: |
+          python3 generate_epg.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet cinemo.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes in cinemo.xml"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "cinemo.xml was updated"
+          fi
+
+      - name: Commit and push updated EPG
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cinemo.xml
+          git commit -m "chore: auto-update CineMo EPG $(date -u +%Y-%m-%d)"
+          git push
