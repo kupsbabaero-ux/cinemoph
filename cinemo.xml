@@ -7,50 +7,6 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Cine_Mo%21_logo.png/220px-Cine_Mo%21_logo.png"/>
   </channel>
 
-  <programme start="20261024010000 +0800" stop="20261024040000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSilip</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261024040000 +0800" stop="20261024060000 +0800" channel="cinemo.ph">
-    <title lang="en">Super Morning Sine</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261024060000 +0800" stop="20261024080000 +0800" channel="cinemo.ph">
-    <title lang="en">CineDeKalibre</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261024080000 +0800" stop="20261024100000 +0800" channel="cinemo.ph">
-    <title lang="en">CineKilig</title>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20261024100000 +0800" stop="20261024120000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSaya</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261024120000 +0800" stop="20261024140000 +0800" channel="cinemo.ph">
-    <title lang="en">CineMatapang</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261024140000 +0800" stop="20261024170000 +0800" channel="cinemo.ph">
-    <title lang="en">FPJ's Batang Quiapo Marathon</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261024170000 +0800" stop="20261024190000 +0800" channel="cinemo.ph">
-    <title lang="en">CineMo! Box Office</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261024190000 +0800" stop="20261024210000 +0800" channel="cinemo.ph">
-    <title lang="en">Dolphy: Hari ng Comedy</title>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261024210000 +0800" stop="20261024230000 +0800" channel="cinemo.ph">
-    <title lang="en">CineMaton</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261024230000 +0800" stop="20261025010000 +0800" channel="cinemo.ph">
-    <title lang="en">CinePatok</title>
-    <category lang="en">Movie</category>
-  </programme>
   <programme start="20261025010000 +0800" stop="20261025050000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <category lang="en">Movie</category>
@@ -313,6 +269,50 @@
   </programme>
   <programme start="20261030230000 +0800" stop="20261031010000 +0800" channel="cinemo.ph">
     <title lang="en">CineKwela</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031010000 +0800" stop="20261031040000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSilip</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031040000 +0800" stop="20261031060000 +0800" channel="cinemo.ph">
+    <title lang="en">Super Morning Sine</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031060000 +0800" stop="20261031080000 +0800" channel="cinemo.ph">
+    <title lang="en">CineDeKalibre</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031100000 +0800" channel="cinemo.ph">
+    <title lang="en">CineKilig</title>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20261031100000 +0800" stop="20261031120000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSaya</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031140000 +0800" channel="cinemo.ph">
+    <title lang="en">CineMatapang</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261031140000 +0800" stop="20261031170000 +0800" channel="cinemo.ph">
+    <title lang="en">FPJ's Batang Quiapo Marathon</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261031170000 +0800" stop="20261031190000 +0800" channel="cinemo.ph">
+    <title lang="en">CineMo! Box Office</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031190000 +0800" stop="20261031210000 +0800" channel="cinemo.ph">
+    <title lang="en">Dolphy: Hari ng Comedy</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20261031210000 +0800" stop="20261031230000 +0800" channel="cinemo.ph">
+    <title lang="en">CineMaton</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261031230000 +0800" stop="20261101010000 +0800" channel="cinemo.ph">
+    <title lang="en">CinePatok</title>
     <category lang="en">Movie</category>
   </programme>
 </tv>
