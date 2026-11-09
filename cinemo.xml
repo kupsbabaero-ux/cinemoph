@@ -7,50 +7,6 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Cine_Mo%21_logo.png/220px-Cine_Mo%21_logo.png"/>
   </channel>
 
-  <programme start="20261108010000 +0800" stop="20261108050000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSilip</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108050000 +0800" stop="20261108070000 +0800" channel="cinemo.ph">
-    <title lang="en">Super Morning Sine / CineUna</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108070000 +0800" stop="20261108090000 +0800" channel="cinemo.ph">
-    <title lang="en">CineDeKalibre</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261108090000 +0800" stop="20261108110000 +0800" channel="cinemo.ph">
-    <title lang="en">CineKilig</title>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20261108110000 +0800" stop="20261108130000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSaya</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108130000 +0800" stop="20261108150000 +0800" channel="cinemo.ph">
-    <title lang="en">Action / Feature Film</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261108150000 +0800" stop="20261108170000 +0800" channel="cinemo.ph">
-    <title lang="en">Weekend Movie Bonding</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108170000 +0800" stop="20261108190000 +0800" channel="cinemo.ph">
-    <title lang="en">CineMo! Box Office</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108190000 +0800" stop="20261108210000 +0800" channel="cinemo.ph">
-    <title lang="en">Markang Daboy / Special</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108210000 +0800" stop="20261108230000 +0800" channel="cinemo.ph">
-    <title lang="en">CineMaton</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261108230000 +0800" stop="20261109010000 +0800" channel="cinemo.ph">
-    <title lang="en">CinePatok</title>
-    <category lang="en">Movie</category>
-  </programme>
   <programme start="20261109010000 +0800" stop="20261109050000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <category lang="en">Movie</category>
@@ -312,6 +268,50 @@
     <category lang="en">Movie</category>
   </programme>
   <programme start="20261114230000 +0800" stop="20261115010000 +0800" channel="cinemo.ph">
+    <title lang="en">CinePatok</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115010000 +0800" stop="20261115050000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSilip</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115050000 +0800" stop="20261115070000 +0800" channel="cinemo.ph">
+    <title lang="en">Super Morning Sine / CineUna</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115090000 +0800" channel="cinemo.ph">
+    <title lang="en">CineDeKalibre</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115110000 +0800" channel="cinemo.ph">
+    <title lang="en">CineKilig</title>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20261115110000 +0800" stop="20261115130000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSaya</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115130000 +0800" stop="20261115150000 +0800" channel="cinemo.ph">
+    <title lang="en">Action / Feature Film</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261115150000 +0800" stop="20261115170000 +0800" channel="cinemo.ph">
+    <title lang="en">Weekend Movie Bonding</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115190000 +0800" channel="cinemo.ph">
+    <title lang="en">CineMo! Box Office</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115210000 +0800" channel="cinemo.ph">
+    <title lang="en">Markang Daboy / Special</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115210000 +0800" stop="20261115230000 +0800" channel="cinemo.ph">
+    <title lang="en">CineMaton</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261115230000 +0800" stop="20261116010000 +0800" channel="cinemo.ph">
     <title lang="en">CinePatok</title>
     <category lang="en">Movie</category>
   </programme>
