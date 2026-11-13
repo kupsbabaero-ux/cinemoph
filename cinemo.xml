@@ -7,50 +7,6 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Cine_Mo%21_logo.png/220px-Cine_Mo%21_logo.png"/>
   </channel>
 
-  <programme start="20261112010000 +0800" stop="20261112050000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSilip</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261112050000 +0800" stop="20261112070000 +0800" channel="cinemo.ph">
-    <title lang="en">Super Morning Sine</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261112070000 +0800" stop="20261112090000 +0800" channel="cinemo.ph">
-    <title lang="en">CineTakilya</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261112090000 +0800" stop="20261112110000 +0800" channel="cinemo.ph">
-    <title lang="en">CineKomedya</title>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261112110000 +0800" stop="20261112130000 +0800" channel="cinemo.ph">
-    <title lang="en">CineSaya</title>
-    <category lang="en">Movie</category>
-  </programme>
-  <programme start="20261112130000 +0800" stop="20261112150000 +0800" channel="cinemo.ph">
-    <title lang="en">CineAstig</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261112150000 +0800" stop="20261112170000 +0800" channel="cinemo.ph">
-    <title lang="en">CineKamao</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261112170000 +0800" stop="20261112190000 +0800" channel="cinemo.ph">
-    <title lang="en">CineTawanan</title>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20261112190000 +0800" stop="20261112210000 +0800" channel="cinemo.ph">
-    <title lang="en">CineBarako</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261112210000 +0800" stop="20261112230000 +0800" channel="cinemo.ph">
-    <title lang="en">CineAksyon</title>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20261112230000 +0800" stop="20261113010000 +0800" channel="cinemo.ph">
-    <title lang="en">CineKwela</title>
-    <category lang="en">Movie</category>
-  </programme>
   <programme start="20261113010000 +0800" stop="20261113050000 +0800" channel="cinemo.ph">
     <title lang="en">CineSilip</title>
     <category lang="en">Movie</category>
@@ -312,6 +268,50 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20261118230000 +0800" stop="20261119010000 +0800" channel="cinemo.ph">
+    <title lang="en">CineKwela</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261119010000 +0800" stop="20261119050000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSilip</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261119050000 +0800" stop="20261119070000 +0800" channel="cinemo.ph">
+    <title lang="en">Super Morning Sine</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261119070000 +0800" stop="20261119090000 +0800" channel="cinemo.ph">
+    <title lang="en">CineTakilya</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261119090000 +0800" stop="20261119110000 +0800" channel="cinemo.ph">
+    <title lang="en">CineKomedya</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20261119110000 +0800" stop="20261119130000 +0800" channel="cinemo.ph">
+    <title lang="en">CineSaya</title>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20261119130000 +0800" stop="20261119150000 +0800" channel="cinemo.ph">
+    <title lang="en">CineAstig</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261119150000 +0800" stop="20261119170000 +0800" channel="cinemo.ph">
+    <title lang="en">CineKamao</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261119170000 +0800" stop="20261119190000 +0800" channel="cinemo.ph">
+    <title lang="en">CineTawanan</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20261119190000 +0800" stop="20261119210000 +0800" channel="cinemo.ph">
+    <title lang="en">CineBarako</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261119210000 +0800" stop="20261119230000 +0800" channel="cinemo.ph">
+    <title lang="en">CineAksyon</title>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20261119230000 +0800" stop="20261120010000 +0800" channel="cinemo.ph">
     <title lang="en">CineKwela</title>
     <category lang="en">Movie</category>
   </programme>
